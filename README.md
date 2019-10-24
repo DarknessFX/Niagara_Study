@@ -16,7 +16,7 @@
 
 Unreal Engine 4 Niagara particles system collection of samples.
 
-<img src="https://github.com/DarknessFX/lv_platformio_win/blob/master/.git_img/screenshot.jpg" width="640px" />
+<img src="https://github.com/DarknessFX/niagara_study/blob/master/.git_img/screenshot.jpg" width="640px" />
 
 ## Versioning
 
