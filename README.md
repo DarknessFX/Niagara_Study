@@ -12,7 +12,7 @@
 
            DarknessFX @ https://dfx.lv | Twitter: @DrkFX
 
-# Niagara Study Samples Collection
+# UE4 Niagara Study Samples Collection
 
 Unreal Engine 4 Niagara particles system collection of samples.
 
