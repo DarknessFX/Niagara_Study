@@ -14,7 +14,7 @@
 
 # UE4 Niagara Study Samples Collection
 
-Unreal Engine 4 Niagara particles system collection of samples.
+Unreal Engine 4.23.1 (or newer) Niagara particles system collection of samples.
 
 <img src="https://github.com/DarknessFX/niagara_study/blob/master/.git_img/screenshot.jpg" width="640px" />
 
